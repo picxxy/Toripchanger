@@ -88,7 +88,9 @@ Your PC  →  Tor Entry Node  →  Tor Relay  →  Tor Exit Node  →  Internet
 
 ## 📸 Screenshot
 
-> Premium deep-space dark UI with live world map, traffic graph, and status indicators.
+![Ip-Changer UI - Tor-powered IP anonymizer running on Windows](screenshots/app-screenshot.png)
+
+> Premium deep-space dark UI with live world map, real-time traffic graph, terminal log, and status indicators.
 
 ---
 
