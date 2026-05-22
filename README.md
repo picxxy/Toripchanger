@@ -94,7 +94,14 @@ Your PC  →  Tor Entry Node  →  Tor Relay  →  Tor Exit Node  →  Internet
 
 ---
 
+## 👤 Author
+
+- **picxxy** - *Project Creator & Lead Developer* - [GitHub Profile](https://github.com/picxxy)
+
+---
+
 ## 📜 License
+
 
 This project is provided for **educational and privacy research purposes only**.  
 Use responsibly and in compliance with your local laws and regulations.
